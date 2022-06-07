@@ -13,8 +13,6 @@ gradle-app.setting
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
 
-# Avoid ignore Gradle wrappper properties
-!gradle-wrapper.properties
 
 # Cache of project
 .gradletasknamecache
@@ -39,3 +37,7 @@ gradle-app.setting
 *.jar
 *.war
 *.ear
+
+# Avoid ignore Gradle wrappper stuff
+!gradle-wrapper.properties
+!gradle-wrapper.jar
