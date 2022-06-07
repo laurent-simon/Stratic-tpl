@@ -1,4 +1,4 @@
-# Stratic-tpl &middot; [![License: Apache 2](https://img.shields.io/badge/License-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Latest Github release](https://img.shields.io/github/release/laurent-simon/Stratic-tpl.svg)](https://github.com/https://github.com/laurent-simon/Stratic-tpl/releases/latest)
+# Stratic-tpl &middot; [![License: Apache 2](https://img.shields.io/badge/License-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Latest Github release](https://img.shields.io/github/release/laurent-simon/Stratic-tpl.svg)](https://github.com/laurent-simon/Stratic-tpl/releases/latest)
 
 **Stratic-tpl** is a lightweight and fast Java library that allows a program to generate textual content using templates.
 
