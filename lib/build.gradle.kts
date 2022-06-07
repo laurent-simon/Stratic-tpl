@@ -69,7 +69,7 @@ tasks.withType<Jar> {
 tasks.withType<Javadoc> {
     title = rootProject.name
     //options.overview = "src/main/java/overview.html"
-    exclude( "it/eez/accessors/**") 
+    exclude( "com/stratic/tpl/accessors/**") 
 }
 
 
