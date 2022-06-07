@@ -504,7 +504,7 @@ In fact, the second form is a shortcut for :
     <tag:'tag name'>@{'template reference'}</'tag name'>
 ```
 
-Be careful that a template definition cannot be infinite. So, includes cannot be reentrants and include themselves (directly or indirectly).
+Be careful that a template definition cannot be infinite. So, includes cannot be recursive. In other words, they cannot include themselves (directly or indirectly).
 
 ## Indentations
 
